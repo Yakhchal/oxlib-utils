@@ -1,2 +1,2 @@
-# oxlib-utils
-Utility scripts for efficiently listing books
+# Overview
+This is simply a place to hold a collection of Work In Progress scripts I've put together for making listing books through the Oxfam interface nicer.
