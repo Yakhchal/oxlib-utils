@@ -1,5 +1,5 @@
 <#
-Simple script to reach out to the OpenLibrary API in order to quickly determine the genre of the book corrresponding ISBN.
+Simple script to reach out to the OpenLibrary API in order to quickly determine the genre of the book corresponding to the input ISBN.
 By YK
 #>
 $isbn = Read-Host "ISBN"
